@@ -34,7 +34,7 @@ class _TodoListState extends State<TodoList> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          "Meeting Assign",
+                          "Assign Meeting Here",
                           style: TextStyle(
                               fontSize: 30, fontWeight: FontWeight.bold),
                         ),
